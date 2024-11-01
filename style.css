@@ -1,6 +1,12 @@
 h2, h1, h3, p {
     font-family: 'General Sans', sans-serif;
     text-align: center;
+    color: white;
+    
+}
+
+.body {
+  background-color: #1E1E1E;
 }
 
 .TheDiv {
