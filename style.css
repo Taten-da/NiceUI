@@ -5,5 +5,5 @@ h2, h1, h3, p {
 
 .TheDiv {
 display: flex;
-justify-content: center;
+align-items: center;
 }
