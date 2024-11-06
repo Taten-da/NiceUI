@@ -6,17 +6,19 @@ h2, h1, h3, p {
 }
 
 body {
+display: flex;
+justify-content: center; /* Center horizontally */
+align-items: center;    /* Center vertically */
 background-color: #1E1E1E;
 height: 100%;
 width: 100%;
 margin: 0;
 padding: 0;
-justify-content: center; /* Center horizontally */
-align-items: center;    /* Center vertically */
+
 }
 
 .TheDiv {
-display: flex;
+
 justify-content: center; /* Center horizontally */
 align-items: center;    /* Center vertically */
 width: 100%;           /* Full width of viewport */
