@@ -16,7 +16,7 @@ body {
 display: flex;
 justify-content: center; /* Center horizontally */
 align-items: center;    /* Center vertically */
-width: 90vw;           /* Full width of viewport */
-height: 90vh;          /* Full height of viewport */
+width: 100%;           /* Full width of viewport */
+height: 100%;          /* Full height of viewport */
 box-sizing: border-box; /* Ensures padding doesn't affect width/height */
 }
