@@ -11,5 +11,9 @@ body {
 
 .TheDiv {
 display: flex;
-align-items: center;
+justify-content: center; /* Center horizontally */
+align-items: center;    /* Center vertically */
+width: 100vw;           /* Full width of viewport */
+height: 100vh;          /* Full height of viewport */
+box-sizing: border-box; /* Ensures padding doesn't affect width/height */
 }
